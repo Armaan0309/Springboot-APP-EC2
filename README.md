@@ -1,6 +1,10 @@
 # springboot-demo Implementation
 ## Result
-![image](https://github.com/user-attachments/assets/5012f3c8-5ed9-4f28-8ae7-25abb2b2fcac)
+
+![Screenshot 2025-01-25 142955](https://github.com/user-attachments/assets/7b23ae1a-9541-4caa-a658-0374f81bee99)
+
+![Screenshot 2025-01-25 143650](https://github.com/user-attachments/assets/657a7508-5b83-4f1e-b562-8fe1a0420c4a)
+
 
 ## 1. Run in the Local
 ### Requirement
@@ -41,11 +45,6 @@ If the build fails, run Maven with detailed logging to diagnose the problem:
 
     mvn clean install -X
 
-## 2. Run in Docker
-
-Building and Running the Docker Image
-
-        docker build -t sendevops:latest .
 
 Run the Docker Container:
 
